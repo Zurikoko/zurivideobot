@@ -1,0 +1,2 @@
+# zurivideobot
+To stream video 
